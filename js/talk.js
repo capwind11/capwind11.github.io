@@ -8,7 +8,7 @@ new TypeIt("#tqyxhj", {
     .delete(null, {
         delay: 500
     })
-    .type("永远在一起，在一起......!")
+    .type("永远在一起，在一起!")
     .pause(3000)
     .go();
 
