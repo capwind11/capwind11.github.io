@@ -143,7 +143,7 @@ a:hover {
     height: 700px;
 }
 
-#talkToXHJ {
+#talkToLXQ {
     width: 750px;
     padding: 50px 100px;
     background-color: rgba(0, 0, 0, 0.3);
@@ -153,11 +153,11 @@ a:hover {
     text-shadow: 0 0 3px black;
 }
 
-#talkToXHJ b {
+#talkToLXQ b {
     font-size: 25px;
 }
 
-#talkToXHJ p {
+#talkToLXQ p {
     font-size: 20px;
 }
 
@@ -289,7 +289,7 @@ img {
         padding-top: 80px;
     }
 
-    #talkToXHJ {
+    #talkToLXQ {
         width: 500px;
         padding: 50px 50px;
     }
@@ -345,16 +345,16 @@ img {
         height: 800px;
     }
 
-    #talkToXHJ {
+    #talkToLXQ {
         width: 350px;
         padding: 30px 30px;
     }
 
-    #talkToXHJ b {
+    #talkToLXQ b {
         font-size: 23px;
     }
     
-    #talkToXHJ p {
+    #talkToLXQ p {
         font-size: 15px;
     }
 
@@ -449,16 +449,16 @@ img {
         height: 900px;
     }
 
-    #talkToXHJ {
+    #talkToLXQ {
         width: 80%;
         padding: 20px 10px;
     }
 
-    #talkToXHJ b {
+    #talkToLXQ b {
         font-size: 23px;
     }
     
-    #talkToXHJ p {
+    #talkToLXQ p {
         font-size: 15px;
     }
 

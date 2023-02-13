@@ -12,7 +12,7 @@ new TypeIt("#tqyxhj", {
     .pause(3000)
     .go();
 
-new TypeIt('#talkToXHJ', {
+new TypeIt('#talkToLXQ', {
     lifeLike: true,
     cursorSpeed: 1000,
     waitUntilVisible: true,
